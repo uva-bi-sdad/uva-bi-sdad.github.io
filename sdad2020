@@ -1,0 +1,268 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>DSPG 2019 Program Info</title>
+		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"/>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.slidertron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+
+		<!-- Header -->
+			<header  id="header" class="alt skel-layers-fixed">
+				
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="elements.html">Elements</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Banner -->
+			<section style="background:#FFFFFF">
+				<div class="container" style="text-align: center;">
+      <img src="img/uva_header.png"><img src="img/SDAD_header.png">
+
+				</div>
+				<p>&nbsp;</p>
+				<div class="container">
+      <header class="major"><h1 style="color:#232D4B;font-size:40px;">Partnership for a New Tomorrow - Creating a Data Science Public Interest Technology Workforce Pipeline </h1></header>
+  </div>
+			</section>
+<style>
+	a{
+		font-weight: bold;
+	}	
+  a:link {
+  color:#E57200;
+}
+  a:visited {
+  color:#232D4B;
+}
+a:hover {
+  color: #232D4B;
+}
+
+ul{
+	font-size:20px;
+}
+ol{
+	text-align: left;
+}
+
+</style>
+
+			
+		<!-- Two -->
+			<section id="two" class="wrapper style2">
+				<div class="container">
+					<div class="row uniform">
+						      <ul>
+        <li><a href = "Key%20Personnel.pdf">Key Personnel</a></li>
+        <li><a href = "DSPG 2019 Program Schedule.pdf">Data Science for the Public Good 2019 Program Schedule</a></li>
+        <li><a href = "SDAD-Generic-Ethics-Checklist.pdf">SDAD Data Science Framework and SDAD Generic Ethics Checklist</a></li>
+      </ul>
+							</section>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+		<!-- Three -->
+			<section id="three" class="wrapper style1">
+				<div class="container">
+					<header class="major">
+						<h2>Relevant Work</h2>
+
+      <ol type="i">
+
+<li><b>(i) References (Mentioned/Numbered in the Proposal):</b>
+	<ol type="1">
+<li>Data Science for the Public Good Young Scholars Program Webpage.
+https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program</li>
+<li>USDA Three-State DSPG Coordinated Innovation Network Announcement.
+https://biocomplexity.virginia.edu/usda-awards-biocomplexity-institute-1-million-develop-three-state-datascience-public-good
+</li>
+<li>Virtual DSPG 2020. https://biocomplexity.virginia.edu/biocomplexity-institute-helps-launch-first-allvirtual-data-science-public-good-young-scholars
+</li>
+<li>DSPG 2019 Research Projects, Sponsors, and Young Scholars.
+https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program/data-science-public-good-youngscholars-program
+</li>
+<li>Cong Cong, Calvin Isch, and Eliza Tobin (2020) “Open Source: The Future of Software
+Innovation” Methodspace by SAGE Publishing. Available at https://www.methodspace.com/open-sourcethe-future-of-software-innovation/
+</li>
+<li>Jessica Keast, Sean Pietrowicz, Allegra Pocinki (2020) “Creating a Composite Index to Measure
+Community Embeddedness” Methodspace by SAGE publishing. Available at
+https://www.methodspace.com/creating-a-composite-index-to-measure-community-embeddedness/
+</li>
+<li>Eliza Tobin, Cong Cong, Victoria Halewicz, Quinton Neville (2020) “Creating
+CommunityScapes: Using Data Science to Inform Evidence-Based Health Policy” Methodspace by
+SAGE Publishing. Available at https://www.methodspace.com/creating-communityscapes-using-datascience-to-inform-evidence-based-health-policy/
+</li>
+<li>Sarah McDonald, Raghav Sawhney, Kateryna Savchyn (2020) “Broadband Coverage in the US:
+When Sources Disagree” Methodspace by SAGE Publishing. Available at
+https://www.methodspace.com/broadband-coverage-in-the-us-when-sources-disagree/
+</li>
+<li>Sean Pietrowicz, Alyssa Fowers (2020) “How-to: Connecting Grant Funding in USA Spending
+and Federal RePORTER” Methodspace by SAGE Publishing. Available at
+https://www.methodspace.com/how-to-connecting-grant-funding-in-usa-spending-and-federal-reporter/
+</li>
+<li>Quinton Neville, Raghav Sawhney (2020) “Novelty in the News: Detecting Innovation with
+Machine Learning” Methodspace by SAGE Publishing. Available at
+https://www.methodspace.com/novelty-in-the-news-detecting-innovation-with-machine-learning/
+</li>
+<li>Alyssa Fowers, Calvin Isch, and Sarah McDonald (2020) “Using Resume Data to Identify
+Skilled Technical Candidates” Methodspace by SAGE Publishing. Available at
+https://www.methodspace.com/using-resume-data-to-identify-skilled-technical-candidates/
+</li>
+<li>DSPG Shaping Next Generation Data Scientists News Article.
+https://biocomplexity.virginia.edu/next-generation-data-scientists-takes-shape-arlington-dspg
+-young-scholars-program-provides-real
+</li>
+<li>Data Science for the Social Good Program at University of Chicago.
+https://grad.uchicago.edu/fellowship/data-science-for-social-good-summer-fellowship/
+</li>
+<li>Data Science for the Social Good Program at University of Washington.
+https://escience.washington.edu/dssg/
+</li>
+<li>S.A. Keller, S.S. Shipp, A. D., Schroeder, and G. Korkmaz, (2020). Doing DataScience:
+A Framework and Case Study. Harvard Data Science Review, 2(1). Retrieved from
+https://hdsr.mitpress.mit.edu/pub/hnptx6lq
+</li>
+<li> UVA Social and Decision Analytics Division Data ScienceFramework. https://uva-bisdad.github.io/SDAD-Generic-Ethics-Checklist.pdf
+</li>
+<li> Data Science for the Public Good 2019 Symposium.
+https://www.youtube.com/playlist?list=PL5pmbS-xLPOG88UHj4quuFDgN17zwKdK9
+Korkmaz, Gizem - #217 2 of 24
+</li>
+<li>DSPG Young Scholar Program Training Material GitHub Repository. https://github.com/DSPGYoung-Scholars-Program/Training
+</li>
+<li>Keller, S., Nusser, S., Shipp, S., & Woteki, C. E. (2018). Helping Communities Use Data to
+Make Better Decisions. Issues in Science and Technology, 34(3), 83-89. https://issues.org/helpingcommunities-use-data-to-make-better-decisions/
+</li>
+<li> Keller S, Lancaster V, Shipp S (2017) Building capacity for data-driven governance: Creating a
+new foundation for democracy. Statistics and Public Policy 4:1–11
+https://doi.org/10.1080/2330443X.2017.1374897</li></ol>
+
+<li><b>
+(ii) Publications that have come out of DSPG or publications that areabout DSPG:</b></li><br>
+<u>About or reference the program and/or fundamental research processes:</u>
+<ul>
+<li>S.A. Keller, S.S. Shipp, A. D., Schroeder, and G. Korkmaz, (2020). “Doing DataScience: A
+Framework and Case Study.” Harvard Data Science Review, 2(1). Retrieved from
+https://hdsr.mitpress.mit.edu/pub/hnptx6lq
+</li><li>S.A. Keller, S. Shipp, G. Korkmaz, E. Molfino, J. Goldstein, V. Lancaster, B. Pires, D. Higdon, D.
+Chen, and A. Schroeder, (2018). “Harnessing the Power of Data to Support Community- Based
+Research.” WIREs Computational Statistics. e1426.
+</li><li> S. Keller, S. Nusser, S. Shipp, and C. Woteki, (2018). “Helping Communities Use Data to Make
+Better Decisions.” Issues in Science and Technology. Spring:83-89.
+</li><li> S. Keller, V. Lancaster, S. Shipp, (2017). “Building Capacity for Data Driven Governance- Creating
+a New Foundation for Democracy.” Statistics and Public Policy. 4:1-11.
+</li><li>Keller, S.; G. Korkmaz; M. Orr; A. Schroeder; and S. Shipp. 2017. “The Evolution of Data Quality:
+Understanding the Transdisciplinary Origins of Data Quality Concepts and Approaches.” Annual
+Review of Applied Statistics 2017. 4:5.1-5.24.
+</li><li> S.A. Keller, S.S. Shipp, A. D., Schroeder, and G. Korkmaz, (2016). “Does Big Data Change the
+Privacy Landscape? A Review of the Issues.” Annual Review of Statistics and Its
+Application, 3:161-180
+</li><li>Molfino, E.; G. Korkmaz; A. Schroeder; S. Keller; S. Shipp; Weinberg, D. H. 2016. “Can
+Administrative Housing Data Replace Survey Data?” Cityscape: A Journal of Policy Development
+and Research. 9:1. pp. 265-292.
+</li>
+</ul>
+
+<u>DSPG Young Scholars authorship, co-authorship and acknowledgements:</u>
+<ul>
+<li>Cong Cong, Calvin Isch, and Eliza Tobin (2020) “Open Source: The Future of Software
+Innovation” Methodspace by SAGE Publishing. Available at https://www.methodspace.com/opensource-the-future-of-software-innovation/
+</li><li>Jessica Keast, Sean Pietrowicz, Allegra Pocinki (2020) “Creating a Composite Index to Measure
+Community Embeddedness” Methodspace by SAGE publishing. Available at
+https://www.methodspace.com/creating-a-composite-index-to-measure-community-embeddedness/
+</li><li>Eliza Tobin, Cong Cong, Victoria Halewicz, Quinton Neville (2020) “Creating
+CommunityScapes: Using Data Science to Inform Evidence-Based Health Policy” Methodspace
+by SAGE Publishing. Available at https://www.methodspace.com/creating-communityscapes-usingdata-science-to-inform-evidence-based-health-policy/
+</li><li>Sarah McDonald, Raghav Sawhney, Kateryna Savchyn (2020) “Broadband Coverage in the US:
+When Sources Disagree” Methodspace by SAGE Publishing. Available at
+https://www.methodspace.com/broadband-coverage-in-the-us-when-sources-disagree/
+</li><li>Sean Pietrowicz, Alyssa Fowers (2020) “How-to: Connecting Grant Funding in USA Spending
+and Federal RePORTER” Methodspace by SAGE Publishing. Available at
+https://www.methodspace.com/how-to-connecting-grant-funding-in-usa-spending-and-federal-reporter/
+</li><li>Quinton Neville, Raghav Sawhney (2020) “Novelty in the News: Detecting Innovation with
+Machine Learning” Methodspace by SAGE Publishing. Available at
+https://www.methodspace.com/novelty-in-the-news-detecting-innovation-with-machine-learning/
+Korkmaz, Gizem - #217 3 of 24
+</li><li>Alyssa Fowers, Calvin Isch, and Sarah McDonald (2020) “Using Resume Data to Identify Skilled
+Technical Candidates” Methodspace by SAGE Publishing. Available at
+https://www.methodspace.com/using-resume-data-to-identify-skilled-technical-candidates/
+</li><li>Kelling, C., G. Korkmaz, Graif, C., & Haran M. 2020. “Combining Geographic and Social
+Proximity to Model Urban Domestic and Sexual Violence.” Journal of Quantitative Criminology
+(forthcoming)
+</li><li>Korkmaz, C. Kelling, C. Robbins, and S. Keller, (2020). “Modeling the Impact of Python and R
+Packages Using Dependency and Contributor Networks.” Social Network Analysis and Mining
+(SNAM). 10:7. https://doi.org/10.1007/s13278-019- 0619-1
+</li><li>M. Arnsbarger, J. Goldstein, C. Kelling, G. Korkmaz, and S. Keller, (2019). "Modeling Response
+Time to Structure Fires." The American Statistician, 1-9.
+</li><li>G. Korkmaz, C. Kelling, C. Robbins, and S. Keller, (2018). “Modeling the Impact of R Packages
+Using Dependency and Contributor Networks.” Proceedings of the 2018 IEEE/ACM
+International Conference on Advances in Social Network Analysis and Mining (ASONAM) pp.
+511-514. IEEE.
+</li><li>Keller, S.A.; G. Korkmaz; C. Robbins; and S. Shipp. 2018. “Opportunities to Observe and
+Measure Intangible Inputs to Innovation: Definitions, operationalization, and examples.”
+Proceedings of the National Academy of Sciences (PNAS). 115 (50), 12638-12645.
+</li><li>B. Pires, I. Crandell, M. Arnsbarger, V. Lancaster, S. Keller, A. Schroeder, S. Shipp, W. Kang,
+and P. Robinson, (2018). "Predicting Postsecondary Trajectories in Virginia High Schools using
+Publicly Available Data." Statistical Journal of the IAOS, 3(4):553-565.
+</li><li>M. Almanza, M. Arnsbarger, J.Flynn, A. Rogers, W. Sandholtz, E. Stark, M. Grant and S. Tyner,
+(2016). "Criteria for Open Data Portals Offer Best Practices for Websites." AMSTAT Magazine,
+available at: https://magazine.amstat.org/ blog/2016/08/01/portals-aug16/
+</li><li>S. Keller, G. Korkmaz, C. Robbins, and S. Shipp, (2018). “Opportunities to Observe and Measure
+Intangible Inputs to Innovation: Definitions, operationalization, and examples.” Proceedings of
+the National Academy of Sciences (PNAS). 115 (50), 12638-12645.
+</li><li>E. Molfino, G. Korkmaz, A. Schroeder, S. Keller, S. Shipp, D. Weinberg, (2016). “Can
+Administrative Housing Data Replace Survey Data?” Cityscape: A Journal of Policy
+Development and Research. 9:1. pp. 265-292.</li></ul>
+
+               
+
+					</header>
+
+				</div>
+			</section>
+			
+		<!-- CTA -->
+
+			
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://twitter.com/@UVA_BI" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://www.facebook.com/uvabiocomplexityinstitute" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.instagram.com/UVABiocomplexityInstitute/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+
+				</ul>
+
+				<span class="copyright">
+				
+				</span>
+			</footer>
+
+	</body>
+</html>
